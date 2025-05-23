@@ -1,7 +1,10 @@
 package main;
 
 import javax.swing.*;
+import java.awt.Color;
 import java.awt.*;
+
+import javax.swing.JPanel;
 
 public class GamePanel extends JFrame {
 
@@ -18,8 +21,8 @@ public class GamePanel extends JFrame {
     // constructor to make new screen
     public GamePanel() {
         this.setPreferredSize(new Dimension(screenWidth, screenHeight)); // sets screen size
-
-        this.setBackground(color.black); // FIX ME!!!!
+        this.setBackground(Color.black);
+        this.setDoubleBufferded(true); // FIX ME!!!!!
     }
 
 }
