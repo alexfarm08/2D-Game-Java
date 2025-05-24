@@ -22,7 +22,7 @@ public class GamePanel extends JFrame {
     public GamePanel() {
         this.setPreferredSize(new Dimension(screenWidth, screenHeight)); // sets screen size
         this.setBackground(Color.black);
-        this.setDoubleBufferded(true); // FIX ME!!!!!
+        //this.setDoubleBuffered(true); // FIX ME!!!!!
     }
 
 }
