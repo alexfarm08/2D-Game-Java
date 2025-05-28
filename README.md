@@ -1,19 +1,17 @@
 # 🌟 2D RPG Game
 
-Welcome to the development repository for Alex Armstrong, a 2D pixel-art role-playing game (RPG) built with Java. Explore immersive environments, battle enemies, complete quests, and uncover an epic story in a handcrafted fantasy world.
+this is a 2D RPG I am building to help learn my java skills. Along with learning how to build a game without an engine.
 
-## 🎮 Game Concept
+## 🎮 Game Goals
 
-Concept in progress
+- Help to learn java by building a project 
+- Learn game logic
 
-- Turn-based combat
-- Character leveling and skill trees
-- Item crafting and inventory management
-- NPC interactions and dialogue choices
-- Quest tracking and open-world exploration
+## 🛠️ Technologies 
 
-## 🛠️ Built With
+- Java
+- IntelliJ IDE
+- Git/GitHub
 
-- Java - Core development language
 
 
